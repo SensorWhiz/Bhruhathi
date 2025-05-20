@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhruhathi
-  I'm an agile developer and  maker blending hardware and software to solve real-world problems. At work and in personal projects—whether it's monitoring ACs, turning classic games multiplayer, or exploring brain signals with EEG—I’m always building, learning, and innovating.
+  - I'm an agile developer and  maker blending hardware and software to solve real-world problems. At work and in personal projects—whether it's monitoring ACs, turning classic games multiplayer, or exploring brain signals with EEG—I’m always building, learning, and innovating.
 
 - ⚡️Thing's I've worked on
   - 🧠 EEG-Based Project  
